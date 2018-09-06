@@ -9,14 +9,16 @@
 
 1.下载后解压到`e:/project/tmall_ssh`，否则要更改jar包导入路径
 
-2.导入Web动态项目
+2.使用MySQL-Front导入数据库
 
-3.使用Tomcat运行
+3.导入Web动态项目
 
-4.访问前台页面
+4.使用Tomcat运行
+
+5.访问前台页面
 `http://127.0.0.1:8080/tmall_ssh/`
 
-5.访问后台页面
+6.访问后台页面
 `http://127.0.0.1:8080/tmall_ssh/admin`
 
 ## 效果图
