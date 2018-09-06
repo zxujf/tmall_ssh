@@ -6,7 +6,7 @@
 
 ## 如何运行?
 
-1.下载后解压到e:/project/tmall_ssh，否则要更改jar包导入路径
+1.下载后解压到'e:/project/tmall_ssh'，否则要更改jar包导入路径
 
 2.导入Web动态项目
 
