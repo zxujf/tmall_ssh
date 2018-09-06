@@ -2,6 +2,7 @@
 ## 写在前面
 
 1. 此项目为基于Spring,Struts,Hibernate（ssh）编写的仿天猫整站练习项目
+
 2. 没上传图片，因此会有各种![img](https://github.com/zxujf/tmall_ssh/blob/master/我没上传图片.jpg)的情况发生
 
 ## 如何运行?
